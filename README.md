@@ -1,7 +1,11 @@
+https://img.shields.io/badge/Learning-Project-brightgreen?style=flat-square
+
 Gradebook App
+
 A simple JavaScript project to review fundamental concepts by building a gradebook application.
 
 Project Overview
+
 This Gradebook App is a mini-project designed to reinforce basic JavaScript concepts, including:
 
 - Functions
